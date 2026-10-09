@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+models/*.weights
+models/*.cfg
+models/coco.names
+outputs/*
+!outputs/.gitkeep

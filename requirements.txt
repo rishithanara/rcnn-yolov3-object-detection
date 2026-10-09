@@ -1,0 +1,8 @@
+streamlit>=1.35,<2.0
+opencv-python>=4.8,<5.0
+Pillow>=10.0
+numpy>=1.24
+# Install torch and torchvision using the official selector for your Windows/Python setup:
+# https://pytorch.org/get-started/locally/
+streamlit-webrtc>=0.47.0
+av>=11.0.0
